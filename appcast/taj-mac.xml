@@ -14,5 +14,21 @@
     <description>Updates for the Take a Joke macOS app.</description>
     <language>en</language>
     <!-- Items are added by each release; newest first. -->
+    <item>
+      <title>Take a Joke 1.0.80</title>
+      <description><![CDATA[
+        <p>First self-updating release. Igor's jabs and the awards ceremony
+        are steadier than ever, and the app now keeps itself up to date.</p>
+      ]]></description>
+      <pubDate>Sun, 19 Jul 2026 12:45:00 +0000</pubDate>
+      <sparkle:version>80</sparkle:version>
+      <sparkle:shortVersionString>1.0.80</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/AppRevolt-LLC/downloads/releases/download/taj-mac/TakeAJoke-1.0.80.dmg"
+        sparkle:edSignature="61Rcj6In6B5EmpOimyfOB2fbm5PdS07I8sqjIXA1j1OY7jM5EK4jOgBBRoOxVFDSS67QY3N/8gm3AS6uHdvgDw=="
+        length="56227428"
+        type="application/octet-stream" />
+    </item>
   </channel>
 </rss>
