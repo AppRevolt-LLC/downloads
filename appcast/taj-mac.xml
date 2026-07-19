@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Sparkle appcast for Take a Joke (macOS direct download).
+     The app checks this file for updates (SUFeedURL is set in-app to the
+     raw.githubusercontent.com URL of this file). Each release prepends an
+     <item>: sparkle:version is the BUILD number (Sparkle's comparison key),
+     sparkle:shortVersionString the display version, and the enclosure's
+     sparkle:edSignature comes from `dart run auto_updater:sign_update <dmg>`
+     in the take-a-joke repo (key in the Mac Mini's Keychain).
+     See take-a-joke/ref/mac-distribution.md for the full release recipe. -->
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Take a Joke for Mac</title>
+    <link>https://raw.githubusercontent.com/AppRevolt-LLC/downloads/main/appcast/taj-mac.xml</link>
+    <description>Updates for the Take a Joke macOS app.</description>
+    <language>en</language>
+    <!-- Items are added by each release; newest first. -->
+  </channel>
+</rss>
