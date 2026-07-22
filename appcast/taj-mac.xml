@@ -15,6 +15,22 @@
     <language>en</language>
     <!-- Items are added by each release; newest first. -->
     <item>
+      <title>Take a Joke 1.0.81</title>
+      <description><![CDATA[
+        <p>Fixes silent narrator jabs and awards-ceremony audio in 1.0.80,
+        and makes automatic updates work properly going forward.</p>
+      ]]></description>
+      <pubDate>Wed, 22 Jul 2026 12:54:25 +0000</pubDate>
+      <sparkle:version>81</sparkle:version>
+      <sparkle:shortVersionString>1.0.81</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/AppRevolt-LLC/downloads/releases/download/taj-mac/TakeAJoke-1.0.81.dmg"
+        sparkle:edSignature="P1ZFCa5e9zbyYzpSq/Fshgn+GxuMW4JZCdIkoE35hCS87MtksWRm52hq1XzdIJH/GDN2mhthbpbyaf1aztRyBg=="
+        length="56227358"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Take a Joke 1.0.80</title>
       <description><![CDATA[
         <p>First self-updating release. Igor's jabs and the awards ceremony
