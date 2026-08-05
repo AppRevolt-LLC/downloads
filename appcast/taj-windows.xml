@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- WinSparkle appcast for Take a Joke (Windows direct download).
+     The app checks this file for updates (feed URL is set in-app to the
+     raw.githubusercontent.com URL of this file). Each release prepends an
+     <item>: sparkle:version must match the 1.0.<CI run number> stamped into
+     the exe's version resources (WinSparkle's comparison key), and the
+     enclosure points at the VERSIONED installer asset on the taj-windows
+     release (the stable-named TakeAJoke-Windows-Setup.exe asset is for the
+     landing page, not this feed). length = exact byte size. No EdDSA
+     signature yet — the exe embeds no WinSparkle public key, so trust is
+     HTTPS-only until code signing lands.
+     See take-a-joke/ref/windows.md for the full release recipe. -->
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Take a Joke for Windows</title>
+    <link>https://raw.githubusercontent.com/AppRevolt-LLC/downloads/main/appcast/taj-windows.xml</link>
+    <description>Updates for the Take a Joke Windows app.</description>
+    <language>en</language>
+    <!-- Items are added by each release; newest first. -->
+    <item>
+      <title>Take a Joke 1.0.13</title>
+      <description><![CDATA[
+        <p>First self-updating Windows release. Fixes the round-1 timer
+        running under the narrated intro, keeps phones from ghost-ending
+        rounds in abandoned games, and makes the live connection heal
+        itself. The app now keeps itself up to date.</p>
+      ]]></description>
+      <pubDate>Tue, 05 Aug 2026 23:25:00 +0000</pubDate>
+      <sparkle:version>1.0.13</sparkle:version>
+      <sparkle:os>windows</sparkle:os>
+      <enclosure
+        url="https://github.com/AppRevolt-LLC/downloads/releases/download/taj-windows/TakeAJoke-Setup-1.0.13.exe"
+        length="39565106"
+        type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
