@@ -18,6 +18,21 @@
     <language>en</language>
     <!-- Items are added by each release; newest first. -->
     <item>
+      <title>Take a Joke 1.0.15</title>
+      <description><![CDATA[
+        <p>The window now wears the game's colors (no more white title bar),
+        and a new fullscreen button (or F11) takes over the whole screen —
+        taskbar and all — for TV time.</p>
+      ]]></description>
+      <pubDate>Wed, 06 Aug 2026 12:30:00 +0000</pubDate>
+      <sparkle:version>1.0.15</sparkle:version>
+      <sparkle:os>windows</sparkle:os>
+      <enclosure
+        url="https://github.com/AppRevolt-LLC/downloads/releases/download/taj-windows/TakeAJoke-Setup-1.0.15.exe"
+        length="39652400"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Take a Joke 1.0.14</title>
       <description><![CDATA[
         <p>The app now checks for updates every time it opens, so you always
