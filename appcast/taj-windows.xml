@@ -18,6 +18,20 @@
     <language>en</language>
     <!-- Items are added by each release; newest first. -->
     <item>
+      <title>Take a Joke 1.0.14</title>
+      <description><![CDATA[
+        <p>The app now checks for updates every time it opens, so you always
+        start on the newest version.</p>
+      ]]></description>
+      <pubDate>Wed, 06 Aug 2026 00:30:00 +0000</pubDate>
+      <sparkle:version>1.0.14</sparkle:version>
+      <sparkle:os>windows</sparkle:os>
+      <enclosure
+        url="https://github.com/AppRevolt-LLC/downloads/releases/download/taj-windows/TakeAJoke-Setup-1.0.14.exe"
+        length="39565316"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Take a Joke 1.0.13</title>
       <description><![CDATA[
         <p>First self-updating Windows release. Fixes the round-1 timer
