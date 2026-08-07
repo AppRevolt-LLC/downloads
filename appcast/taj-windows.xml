@@ -18,6 +18,22 @@
     <language>en</language>
     <!-- Items are added by each release; newest first. -->
     <item>
+      <title>Take a Joke 1.0.20</title>
+      <description><![CDATA[
+        <p>The Take a Joke Awards can now be skipped from the moment they
+        start loading — from the TV or any phone — and skipping early saves
+        your ceremony credit. Igor also keeps his facts straighter, and the
+        winner card fits snug around short answers.</p>
+      ]]></description>
+      <pubDate>Thu, 07 Aug 2026 20:55:00 +0000</pubDate>
+      <sparkle:version>1.0.20</sparkle:version>
+      <sparkle:os>windows</sparkle:os>
+      <enclosure
+        url="https://github.com/AppRevolt-LLC/downloads/releases/download/taj-windows/TakeAJoke-Setup-1.0.20.exe"
+        length="39657215"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Take a Joke 1.0.18</title>
       <description><![CDATA[
         <p>The TV recovers much faster when the network hiccups, the awards
