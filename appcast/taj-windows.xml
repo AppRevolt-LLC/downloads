@@ -18,6 +18,21 @@
     <language>en</language>
     <!-- Items are added by each release; newest first. -->
     <item>
+      <title>Take a Joke 1.0.17</title>
+      <description><![CDATA[
+        <p>Skip Intro now stops the TV's narration too, New Game from a
+        phone works again, the awards ceremony has a Skip button, and the
+        round-winner card fits its answer.</p>
+      ]]></description>
+      <pubDate>Thu, 07 Aug 2026 11:15:00 +0000</pubDate>
+      <sparkle:version>1.0.17</sparkle:version>
+      <sparkle:os>windows</sparkle:os>
+      <enclosure
+        url="https://github.com/AppRevolt-LLC/downloads/releases/download/taj-windows/TakeAJoke-Setup-1.0.17.exe"
+        length="39654774"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Take a Joke 1.0.16</title>
       <description><![CDATA[
         <p>Fixes the updater offering you the version you already have.
