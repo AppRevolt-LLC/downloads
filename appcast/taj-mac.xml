@@ -15,6 +15,25 @@
     <language>en</language>
     <!-- Items are added by each release; newest first. -->
     <item>
+      <title>Take a Joke 1.1.0</title>
+      <description><![CDATA[
+        <p>New: Adjectives mode. The TV shows one word and everyone plays the
+        card from their hand that fits it best. The narrator now reads every
+        prompt out loud, the vote results show everyone's name, Play Again
+        keeps dealing from the same deck, and there's a new help book, a test
+        players option and a long list of fixes.</p>
+      ]]></description>
+      <pubDate>Sat, 19 Sep 2026 15:08:58 GMT</pubDate>
+      <sparkle:version>119</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/AppRevolt-LLC/downloads/releases/download/taj-mac/TakeAJoke-1.1.0.dmg"
+        sparkle:edSignature="DvYOBnT4AGWNjQJpk4LHGRK26f9ivCOVrq6bzjnsmNAy38Dsy0YA40XklBOC7dB2xolu8hV248akYsioV0AKBQ=="
+        length="81624781"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Take a Joke 1.0.81</title>
       <description><![CDATA[
         <p>Fixes silent narrator jabs and awards-ceremony audio in 1.0.80,
