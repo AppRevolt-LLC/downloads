@@ -2,8 +2,10 @@
 <!-- WinSparkle appcast for Take a Joke (Windows direct download).
      The app checks this file for updates (feed URL is set in-app to the
      raw.githubusercontent.com URL of this file). Each release prepends an
-     <item>: sparkle:version must match the 1.0.<CI run number> stamped into
-     the exe's version resources (WinSparkle's comparison key), and the
+     <item>: sparkle:version must match the version stamped into the exe's
+     version resources (WinSparkle's comparison key) - the shared
+     tool/compute_version.sh version since 1.1.0 (it was 1.0.<CI run
+     number> through 1.0.20), always plain major.minor.patch, and the
      enclosure points at the VERSIONED installer asset on the taj-windows
      release (the stable-named TakeAJoke-Windows-Setup.exe asset is for the
      landing page, not this feed). length = exact byte size. No EdDSA
@@ -17,6 +19,23 @@
     <description>Updates for the Take a Joke Windows app.</description>
     <language>en</language>
     <!-- Items are added by each release; newest first. -->
+    <item>
+      <title>Take a Joke 1.1.0</title>
+      <description><![CDATA[
+        <p>New: Adjectives mode. The TV shows one word and everyone plays the
+        card from their hand that fits it best. The narrator now reads every
+        prompt out loud, the vote results show everyone's name, Play Again
+        keeps dealing from the same deck, and there's a new help book, a test
+        players option and a long list of fixes.</p>
+      ]]></description>
+      <pubDate>Sat, 19 Sep 2026 13:46:17 GMT</pubDate>
+      <sparkle:version>1.1.0</sparkle:version>
+      <sparkle:os>windows</sparkle:os>
+      <enclosure
+        url="https://github.com/AppRevolt-LLC/downloads/releases/download/taj-windows/TakeAJoke-Setup-1.1.0.exe"
+        length="61406874"
+        type="application/octet-stream" />
+    </item>
     <item>
       <title>Take a Joke 1.0.20</title>
       <description><![CDATA[
