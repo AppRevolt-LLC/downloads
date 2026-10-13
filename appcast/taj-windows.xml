@@ -20,6 +20,23 @@
     <language>en</language>
     <!-- Items are added by each release; newest first. -->
     <item>
+      <title>Take a Joke 1.1.8</title>
+      <description><![CDATA[
+        <p>New: you decide what's in the deck, card by card. Switch off a whole
+        category or single cards, on the computer or from your phone, plus a
+        new Romance &amp; Swimsuits category. Also: round timers stay in sync
+        even when a computer's clock is off, cleaner vote results, new cards
+        and a list of fixes.</p>
+      ]]></description>
+      <pubDate>Tue, 13 Oct 2026 21:25:42 GMT</pubDate>
+      <sparkle:version>1.1.8</sparkle:version>
+      <sparkle:os>windows</sparkle:os>
+      <enclosure
+        url="https://github.com/AppRevolt-LLC/downloads/releases/download/taj-windows/TakeAJoke-Setup-1.1.8.exe"
+        length="61157667"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Take a Joke 1.1.0</title>
       <description><![CDATA[
         <p>New: Adjectives mode. The TV shows one word and everyone plays the
