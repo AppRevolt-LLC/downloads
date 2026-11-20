@@ -20,6 +20,22 @@
     <language>en</language>
     <!-- Items are added by each release; newest first. -->
     <item>
+      <title>Take a Joke 2.0.0</title>
+      <description><![CDATA[
+        <p>A whole new look: Take a Joke has been redesigned, from the main
+        menu to the final scoreboard. A bigger free demo: one full game in
+        each of the four modes, for up to 8 players, with every setting open.
+        Also new: a music volume setting in Settings, and small fixes.</p>
+      ]]></description>
+      <pubDate>Fri, 20 Nov 2026 13:36:43 GMT</pubDate>
+      <sparkle:version>2.0.0</sparkle:version>
+      <sparkle:os>windows</sparkle:os>
+      <enclosure
+        url="https://github.com/AppRevolt-LLC/downloads/releases/download/taj-windows/TakeAJoke-Setup-2.0.0.exe"
+        length="107494729"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Take a Joke 1.1.8</title>
       <description><![CDATA[
         <p>New: you decide what's in the deck, card by card. Switch off a whole
