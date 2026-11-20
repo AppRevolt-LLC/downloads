@@ -15,6 +15,24 @@
     <language>en</language>
     <!-- Items are added by each release; newest first. -->
     <item>
+      <title>Take a Joke 2.0.0</title>
+      <description><![CDATA[
+        <p>A whole new look: Take a Joke has been redesigned, from the main
+        menu to the final scoreboard. A bigger free demo: one full game in
+        each of the four modes, for up to 8 players, with every setting open.
+        Also new: a music volume setting in Settings, and small fixes.</p>
+      ]]></description>
+      <pubDate>Fri, 20 Nov 2026 08:31:07 -0500</pubDate>
+      <sparkle:version>131</sparkle:version>
+      <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/AppRevolt-LLC/downloads/releases/download/taj-mac/TakeAJoke-2.0.0.dmg"
+        sparkle:edSignature="CTx1c0E18bxY9Z3bJYDdHvBEk1P81nvpVT72DOMfVWOE274F/mRaGcy1/tNKpj1YkPqWt9/7DLRaWAp41RtrAQ=="
+        length="131893079"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Take a Joke 1.1.8</title>
       <description><![CDATA[
         <p>New: you decide what's in the deck, card by card. Switch off a whole
